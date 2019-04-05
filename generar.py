@@ -14,7 +14,7 @@ imagenes con desplazamientos y rotaciones.
 
 Salida: archivos .npz de entrenamiento y test por separado:
     - imagenes generadas    ["data"]
-    - mascaras como canales ["maskLineal"]
+    - mascaras en una sola imagen con un entero en cada píxel indicando la clase ["maskLineal"]
 
 """
 
