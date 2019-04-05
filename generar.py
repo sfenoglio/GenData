@@ -9,7 +9,7 @@ Created on Tue Sep 25 20:01:28 2018
 
 @author: sebastian
 
-Objetivo: combinar dos cromosomas fijos, generando para cada combinacion varias
+Objetivo: combinar cromosomas provenientes de los cariogramas, generando para cada combinacion varias
 imagenes con desplazamientos y rotaciones.
 
 Salida: archivos .npz de entrenamiento y test por separado:
